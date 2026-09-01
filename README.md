@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my first git repository.
-Author - Ahlilipsa Mahuri
+This is my first Git repository.
+
